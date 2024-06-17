@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello world
 how are you
+=======
+>>>>>>> parent of 3adee38 (updated in muskan.txt)
